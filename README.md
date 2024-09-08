@@ -13,6 +13,10 @@ You can get more information about this project on the [roadmap.sh page](https:/
 - **SEO Optimized:** Basic meta tags included for better search engine visibility.
 - **Customizable:** Easy to edit and update with your personal information.
 
+## Screenshot
+
+![Screenshot](design.png)
+
 ## Installation
 
 To get started with the Single Page CV project:
