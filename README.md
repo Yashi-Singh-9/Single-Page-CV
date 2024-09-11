@@ -1,4 +1,5 @@
 # Single Page CV
+![Github last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Single-Page-CV)
 
 ## Description
 
