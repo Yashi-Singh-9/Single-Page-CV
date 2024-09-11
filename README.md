@@ -23,7 +23,7 @@ To get started with the Single Page CV project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/single-page-cv.git
+   git clone https://github.com/Yashi-Singh-9/Single-Page-CV.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
